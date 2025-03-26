@@ -34,24 +34,21 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Soccer
           link:
 
-        - item: Snowboarding
+        - item: Programming
           link:
 
-        - item: Cooking
+        - item: Music
           link:
 
 career-profile:
